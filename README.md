@@ -11,4 +11,4 @@
 To launch this application in RStudio, run the following command in the R Console:
 
 ```R
-shiny::runGitHub("ZahinHakim/NEXORA")
+shiny::runGitHub("NEXORA", "ZahinHakim", ref = "main")
